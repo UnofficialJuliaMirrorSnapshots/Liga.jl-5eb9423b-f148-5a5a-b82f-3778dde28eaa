@@ -12,7 +12,9 @@
 
 
 
-This library is not well documented and updated in the metadata base. So the best way to install and use it is by cloning the directory and then using (just) the documentation API. Updates on documentation and metadata are coming soon.
+
+
+This library is not well documented and updated in the metadata base. So the best way to install and use it in this moment is by cloning the directory and then using (just) the documentation API. Updates on documentation and metadata are coming soon. To start using just type
 
 ``` 
 add https://github.com/evcastelani/Liga.jl
@@ -24,4 +26,4 @@ and then
 ```
 layout(3,1,"Conformal")
 ```
-to work with G(3,1), for example.
+to work with G(3,1), for example. We are working to build a complete documentation and new functions.
